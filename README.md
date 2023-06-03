@@ -4,7 +4,7 @@ Esse projeto de estudo foi feito no curso da Alura, o objetivo é tirar do Figma
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Portfólio Joana Santos
+| :sparkles: Nome        | **Portfólio Joana Santos**
 | :label: Tecnologias | HTML, CSS (tecnologias utlizadas)
 | :rocket: URL         | https://github.com/nielalencar/primeiroportfolioalura
 | :fire: Desafio     | 
